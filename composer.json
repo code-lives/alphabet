@@ -1,0 +1,17 @@
+{
+    "name": "code-lives/alphabet",
+    "description": "this is Chinese alphabet",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lijie",
+            "email": "1873451007@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+    "psr-4":{"PinYin\\":"src"}
+    }
+}
